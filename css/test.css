@@ -1,0 +1,11 @@
+.bar{
+    height: 50px;
+    width: 50px;
+    transition:all 3s;
+    background-color: blue;
+}
+
+.bar:hover{
+    background-color: red;
+    width: 200px;
+}
